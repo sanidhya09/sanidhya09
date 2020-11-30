@@ -1,4 +1,3 @@
-### Hi there 👋
 ## I've 6+ Years of expirience in native Android App Development.
 
 Skills: Android / Kotlin / Java
@@ -7,14 +6,32 @@ Skills: Android / Kotlin / Java
     👯 I’m looking to collaborate on Android projects
     💬 Ask me about Android App Development
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!--
-**sanidhya09/sanidhya09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- display the social media buttons in your README -->
 
-Here are some ideas to get you started:
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-- 🔭 I’m currently working on Android Native Apps
-- 🌱 I’m currently learning Kotlin with Coroutines and Flow.
-- 💬 Ask me about ...
-- 📫 How to reach me: sanidhya09@gmail.com
--->
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/P3YfQoD.png
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/sanidhya09
+[2]: http://www.facebook.com/sanidhya09
+[3]: https://www.linkedin.com/in/sanidhya-kumar-64500622/
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+![](https://komarev.com/ghpvc/?username=sanidhya09&color=blue)
+
