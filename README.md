@@ -1,4 +1,8 @@
-## I've 6+ Years of expirience in native Android App Development.
+### Hi there 👋 , my name is Sanidhya Kumar
+#### Developer by profession. Geek by passion.
+
+##### I've 7+ Years of expirience in native Android App Development. Developed 15+ live apps on play store with millions of download.
+##### Worked on Kotlin, Coroutines, Live Data, ArCore, Sceneform, Xmpp, Video  Processing (FFMpeg),  Enterprise Apps, Listing Apps, Quiz Apps, Dependency Injection, Rx java, Animations, Online payments(BillDesk, PayU...), etc. Follows MVP & MVVM pattern and writes lots of unit test cases.
 
 Skills: Android / Kotlin / Java
 
