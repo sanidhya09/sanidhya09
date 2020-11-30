@@ -35,5 +35,7 @@ Skills: Android / Kotlin / Java
 
 ![](https://komarev.com/ghpvc/?username=sanidhya09&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanidhya09&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=sanidhya09&theme=onedark)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanidhya09&show_icons=true&theme=radical)
 
