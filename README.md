@@ -35,3 +35,5 @@ Skills: Android / Kotlin / Java
 
 ![](https://komarev.com/ghpvc/?username=sanidhya09&color=blue)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanidhya09)]
+
